@@ -1,0 +1,6 @@
+site_name: 公司文档
+
+nav:
+  - 首页: index.md
+  - 安装教程: install.md
+  - 常见问题: faq.md
